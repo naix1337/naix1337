@@ -1,20 +1,80 @@
-# Hi 👋, I'm Flo 
+<h1 align="center">Hi 👋, I'm Flo</h1>
+<h3 align="center">KI Specialist • Web Developer • Infrastructure Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naix1337&label=Profile views&color=0e75b6&style=flat" alt="naix1337" /> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=naix1337&label=Profile%20Views&color=0e75b6&style=for-the-badge" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=naix1337&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/naix1337?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/naix1337?label=Followers&style=for-the-badge&color=1f6feb" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/naix1337" target="_blank">
+    <img src="https://img.shields.io/github/stars/naix1337?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
+  </a>
+</p>
 
-- 🔭 I'm currently working on **Insolution.cloud**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+web+projects;Working+on+Insolution.cloud;Interested+in+AI%2C+infra+and+automation;Always+learning+new+tools" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 All of my projects are available at **[https://naix.space](https://naix.space)**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naix1337&show_icons=true&locale=en&layout=compact" alt="naix1337" /></p>
+- 🔭 Currently working on **Insolution.cloud**
+- 🧠 Interested in **AI, automation, infrastructure and modern web development**
+- 💻 I enjoy building with **TypeScript, Python, Tailwind and PHP**
+- ⚙️ I like creating clean systems, useful tools and polished user experiences
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naix1337&show_icons=true&locale=en" alt="naix1337" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naix1337&" alt="naix1337" /></p>
+## 🌐 Connect with Me
 
+<p align="left">
+  <a href="https://github.com/naix1337" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <!-- Ergänze hier LinkedIn, Website, Mail etc. -->
+  <!-- Beispiel:
+  <a href="https://linkedin.com/in/DEINNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  -->
+</p>
 
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naix1337&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,js,php,py,tailwind,ts,git,github,vscode,linux,docker&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naix1337&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naix1337&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naix1337&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naix1337&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🧩 Featured Addons
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naix1337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
