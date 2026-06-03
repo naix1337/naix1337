@@ -73,5 +73,5 @@
 
 ## 🧩 Featured Addons
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naix1337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+    <img src="https://github-trophies.vercel.app/?username=naix1337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />/>
 </p>
