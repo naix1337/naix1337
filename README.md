@@ -56,7 +56,11 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naix1337&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=naix1337&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=naix1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
