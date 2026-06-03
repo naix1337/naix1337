@@ -59,9 +59,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naix1337&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naix1337&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=naix1337&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
