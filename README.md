@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flo</h1>
-<h3 align="center">KI Specialist • Web Developer • Infrastructure Enthusiast</h3>
+<h3 align="center">AI Specialist • Web Developer • Infrastructure Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naix1337&label=Profile%20Views&color=0e75b6&style=for-the-badge" target="_blank">
