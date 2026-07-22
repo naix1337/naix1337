@@ -59,7 +59,5 @@
 
 ## 📝 Recent Activity
 
-- 🧱 Homelab: Proxmox & TrueNAS Environment optimiert
-- 🔐 OpenNSense Firewall Ruleset verfeinert
-- ☸️ Kubernetes Lab Cluster Update auf v1.30
-- 🌐 Neue Features für Insolution.cloud entwickelt
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
