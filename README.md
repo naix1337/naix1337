@@ -64,7 +64,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=cpp,css,html,js,php,py,tailwind,ts,git,github,vscode,linux,docker&perline=7"
+    src="https://skillicons.dev/icons?i=cpp,css,html,js,php,py,tailwind,ts,git,github,vscode,linux&perline=7"
     alt="Tech Stack"
   />
 </p>
