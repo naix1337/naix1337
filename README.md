@@ -35,7 +35,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/naix1337/naix1337/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/naix1337/naix1337/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -44,9 +43,7 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
 
 ###
 
@@ -81,3 +78,8 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
