@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flo</h1>
 <h3 align="center">AI Specialist • Web Developer • Infrastructure Enthusiast</h3>
 
+<img align="right" width="150" src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/731.png" alt="Pikipek">
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naix1337&label=Profile%20Views&color=0e75b6&style=for-the-badge" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=naix1337&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -29,21 +31,17 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://github.com/naix1337" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn, Website, Mail etc. here -->
-  <!-- Example:
-  <a href="https://linkedin.com/in/YOURNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  -->
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,css,html,js,php,py,tailwind,ts,git,github,vscode,linux,docker&perline=7" alt="Tech Stack" />
 </p>
@@ -51,27 +49,17 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=naix1337&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naix1337&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=naix1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naix1337&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+## 📝 Recent Activity
 
----
-
-## 🧩 Featured Addons
-<p align="center">
-    <img src="https://github-trophies.vercel.app/?username=naix1337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />/>
-</p>
+- 🧱 Homelab: Proxmox & TrueNAS Environment optimiert
+- 🔐 OpenNSense Firewall Ruleset verfeinert
+- ☸️ Kubernetes Lab Cluster Update auf v1.30
+- 🌐 Neue Features für Insolution.cloud entwickelt
