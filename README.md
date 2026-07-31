@@ -50,11 +50,12 @@
 ## 🌐 Connect with Me
 
 <p align="left">
+  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-dittrich-05a3a123a/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/naix1337)
  
-
 </p>
+
 
 ---
 
